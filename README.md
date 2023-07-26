@@ -1,0 +1,2 @@
+# Syncinterns_Task2_OTPvarification
+Internship2023
